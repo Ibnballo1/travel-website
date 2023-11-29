@@ -319,6 +319,10 @@ footer ul {
         -webkit-text-fill-color: #fff;
     }
 
+    .form-wrapper {
+        width: 100%;
+    }
+
     footer {
         text-align: center;
     }
